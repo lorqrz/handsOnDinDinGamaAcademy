@@ -13,7 +13,7 @@ header{
     display: flex;   
 }
 
-header img{ 
+header a.link01{ 
     margin-left:12%;     
     padding:.8%;  
     max-width:25ch;
@@ -29,7 +29,7 @@ header nav{
     padding:3%;  
 }
 
-header a{
+header a.link02{
     color:#FFFFFF;
     text-decoration: none;
     padding:2ch;   
